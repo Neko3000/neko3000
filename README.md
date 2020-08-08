@@ -34,7 +34,6 @@ This guy is concentrating on mobile development currently. </br>
 🎸 Ukulele with cozzy emotion.</br>
 </br>
 
-</br>
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
