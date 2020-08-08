@@ -31,6 +31,11 @@ This guy is concentrating on mobile development currently. </br>
 ### 📡 Others
 📷 Photograph with exploratory spirit. </br>
 🎬 Video editting with further tradition. </br>
-🎸 Ukulele with cozzy emotion.
+🎸 Ukulele with cozzy emotion.</br>
+</br>
+
+
+ <!-- waka-box start -->
+ <!-- waka-box end -->
 
 
