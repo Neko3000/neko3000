@@ -37,10 +37,7 @@ This guy is concentrating on mobile development currently. </br>
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Objective-C 🕓 4h31m ███████████████████░░░░░░░░ 70.4%
-XML         🕓 1h25m █████▉░░░░░░░░░░░░░░░░░░░░░ 22.2%
-Other       🕓 27m   █▉░░░░░░░░░░░░░░░░░░░░░░░░░  7.2%
-JavaScript  🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.2%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
