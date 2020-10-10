@@ -37,7 +37,7 @@ This guy is concentrating on mobile development currently. </br>
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Still Gathering Statistics...
+Objective-C 🕓 10m █████████████████████████████100.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
