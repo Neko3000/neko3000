@@ -1,7 +1,7 @@
 ### 🐺 Hello, my Friend
 <img align='right' src="https://raw.githubusercontent.com/Neko3000/resource-storage/master/img/homepage/shibainu-1.png" alt="screenshot-1" width='100"'>
-I am Xueliang Chen.  </br>
-This guy is concentrating on mobile development currently. </br>
+I am Xueliang Chen, a Mobile Application Developer.  </br>
+
 
 </br>
 
@@ -28,7 +28,16 @@ This guy is concentrating on mobile development currently. </br>
 
 </br>
 
-### 🔬 Others
+### 🔬 Elementary
++ ~~🎓 Got a Master Degree of CS, successfully, lived in Tokyo & Shizuoka over 3 years more.~~
++ ~~🎬 Trained Video Editting Skills(AE+C4D), and (was) really good at it.~~
++ 📷 Bought a Cannon RP with 85mm + 35mm, nice shots, but not recently.
++ 🎸 Pratice Ukulele, [Remembrance Of Dreams Past, 1/1], etc.
+
+
+~~ + 1-1 🎓 Got a Master Degree of CS, successfully, lived in Tokyo & Shizuoka over 3 years more.~~ </br>
+~~ + 1-1 🎓 Got a Master Degree of CS, successfully, lived in Tokyo & Shizuoka over 3 years more.~~ </br>
+
 📷 Photograph with exploratory spirit. </br>
 🎬 Video editting with further tradition. </br>
 🎸 Ukulele with cozzy emotion.</br>
