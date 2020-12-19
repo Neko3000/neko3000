@@ -34,13 +34,6 @@ I am Xueliang Chen, a Mobile Application Developer.  </br>
 + 📷 Bought a Cannon RP with 85mm + 35mm, nice shots, but not recently.
 + 🎸 Pratice Ukulele, [Remembrance Of Dreams Past, 1/1], etc.
 
-
-~~ + 1-1 🎓 Got a Master Degree of CS, successfully, lived in Tokyo & Shizuoka over 3 years more.~~ </br>
-~~ + 1-1 🎓 Got a Master Degree of CS, successfully, lived in Tokyo & Shizuoka over 3 years more.~~ </br>
-
-📷 Photograph with exploratory spirit. </br>
-🎬 Video editting with further tradition. </br>
-🎸 Ukulele with cozzy emotion.</br>
 </br>
 
  <!-- waka-box start -->
