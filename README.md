@@ -36,7 +36,7 @@ I am Xueliang Chen, a Mobile Application Developer.  </br>
 
 </br>
 
-### 📣 We are Hring
+### 📣 We are Hiring
 ByteDance **TikTok Team**, iOS Android Back-End Front-End, etc, countless opportunities.  
 Including job hunting for other departments, base Shanghai Beijing Shenzhen Hangzhou.  
 Plz contact me with WeChat qs_will or email me, even just for chatting.
