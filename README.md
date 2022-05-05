@@ -14,17 +14,16 @@ I am Xueliang Chen, a Mobile Application Developer.  </br>
 
 <!-- [![](https://img.shields.io/badge/MacOS-Catalina%2010-202020?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)  [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10) -->
 
+[![](https://img.shields.io/badge/IDE-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=ffffff)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/Lang-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)](https://www.w3.org/TR/2014/REC-html5-20141028/)
-[![](https://img.shields.io/badge/Lang-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/Lang-JavaScript-FDB515?style=flat-square&logo=JavaScript&logoColor=ffffff)](http://www.ecmascript.org/)
-[![](https://img.shields.io/badge/Lang-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](hhttps://www.python.org/)
-[![](https://img.shields.io/badge/Lang-C%23-239120?style=flat-square&logo=C%20sharp&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/Lang-React-FDB515?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Lang-Objective--C-00599C?style=flat-square&logo=C%2b%2b&logoColor=ffffff)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html)
 [![](https://img.shields.io/badge/Lang-Swift-FA7343?style=flat-square&logo=swift&logoColor=ffffff)](https://developer.apple.com/swift/)
+[![](https://img.shields.io/badge/Lang-Flutter-E74C3C?style=flat-square&logo=flutter&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Lang-C%23-239120?style=flat-square&logo=C%20sharp&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/Lang-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](hhttps://www.python.org/)
 
 </br>
 
