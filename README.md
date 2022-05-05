@@ -21,7 +21,7 @@ I am Xueliang Chen, a Mobile Application Developer.  </br>
 [![](https://img.shields.io/badge/Lang-React-FDB515?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Lang-Objective--C-00599C?style=flat-square&logo=C%2b%2b&logoColor=ffffff)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html)
 [![](https://img.shields.io/badge/Lang-Swift-FA7343?style=flat-square&logo=swift&logoColor=ffffff)](https://developer.apple.com/swift/)
-[![](https://img.shields.io/badge/Lang-Flutter-E74C3C?style=flat-square&logo=flutter&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Lang-Flutter-E74C3C?style=flat-square&logo=flutter&logoColor=ffffff)](https://flutter.dev/)
 [![](https://img.shields.io/badge/Lang-C%23-239120?style=flat-square&logo=C%20sharp&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![](https://img.shields.io/badge/Lang-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](hhttps://www.python.org/)
 
