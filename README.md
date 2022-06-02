@@ -1,6 +1,7 @@
 ### 🐺 Hello, my Friend
 <img align='right' src="https://raw.githubusercontent.com/Neko3000/resource-storage/master/img/homepage/shibainu-1.png" alt="screenshot-1" width='100"'>
 I am Xueliang Chen, a Mobile Application Developer.  </br>
+I work for TikTok currently, concentrating on Global Live Business.  </br>
 
 
 </br>
@@ -36,9 +37,9 @@ I am Xueliang Chen, a Mobile Application Developer.  </br>
 </br>
 
 ### 📣 We are Hiring
-ByteDance **TikTok Team**, iOS Android Back-End Front-End, etc, countless opportunities.  
+**TikTok Global Live Team**, iOS Android Back-End Front-End, etc, countless opportunities.  
 Including job hunting for other departments, base Shanghai Beijing Shenzhen Hangzhou.  
-Plz contact me with WeChat qs_will or email me, even just for chatting.
+Plz contact me with WeChat qs_will or email me directly, even just for chatting.
 
 </br>
 </br>
