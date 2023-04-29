@@ -47,7 +47,8 @@ Plz contact me with WeChat qs_will or email me directly, even just for chatting.
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Objective-C 🕓 18m █████████████████████████████100.0%
+Objective-C 🕓 30m ████████████████████████████▊ 99.2%
+Other       🕓 0s  ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.8%
 ```
 <!-- Powered by https://github.com/Neko3000/waka-box-go . -->
 <!-- waka-box end -->
