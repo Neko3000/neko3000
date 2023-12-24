@@ -1,8 +1,9 @@
 ### 📌 Hello, my friends
 
 <!-- <img align='right' src="https://raw.githubusercontent.com/Neko3000/resource-storage/master/img/homepage/shibainu-1.png" alt="screenshot-1" width='100"'> -->
-I am Xueliang Chen, a mobile application developer.  </br>
-Now I am working for TikTok.Inc, concentrating on TikTok Global Live fundemental business.  </br>
+
+I'm Xueliang Chen, a skilled mobile application developer. </br>
+Currently employed at TikTok Inc., specializing in enhancing the fundamental business of TikTok Global Live. </br>
 
 </br>
 
