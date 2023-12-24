@@ -63,9 +63,7 @@ Please feel free to contact me with WeChat qs_will or email me directly, even ju
 </br>
 
  <!-- waka-box start -->
-
 📊 Weekly development breakdown
-
 ```text
 Go            🕓 3h49m ████████████████▌░░░░░░░░ 66.0%
 Other         🕓 1h13m █████▎░░░░░░░░░░░░░░░░░░░ 21.1%
