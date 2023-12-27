@@ -64,7 +64,7 @@ Please feel free to contact me with wechat qs_will or email me directly, even ju
 ### 📞 Contact me
 
 - Twitter: [@SNeko4000](https://twitter.com/sneko4000) </br>
-- Weibo: [Profile](https://weibo.com/u/7386133210) </br>
+- Weibo: [profile](https://weibo.com/u/7386133210) </br>
 - E-mail: sheran_chen@outlook.com </br>
 
 </br>
