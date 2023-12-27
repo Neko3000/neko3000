@@ -53,6 +53,14 @@ Please feel free to contact me with wechat qs_will or email me directly, even ju
 
 </br>
 
+### 💬 Languages
+
+- Chinese
+- English / TOEIC 910
+- Japanese / N1
+
+</br>
+
 ### 📞 Contact me
 
 - Twitter: [@SNeko4000](https://twitter.com/sneko4000) </br>
