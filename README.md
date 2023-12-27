@@ -3,7 +3,7 @@
 <!-- <img align='right' src="https://raw.githubusercontent.com/Neko3000/resource-storage/master/img/homepage/shibainu-1.png" alt="screenshot-1" width='100"'> -->
 
 I'm Xueliang Chen, a skilled mobile application developer. </br>
-Currently employed at TikTok Inc., specializing in enhancing the fundamental business of TikTok Global Live. </br>
+Currently employed at TikTok Inc., specializing in enhancing the fundamental business of **TikTok Global LIVE**. </br>
 
 </br>
 
@@ -47,9 +47,9 @@ Currently employed at TikTok Inc., specializing in enhancing the fundamental bus
 
 ### 📣 We are hiring
 
-**TikTok Global Live Team**, iOS, Android, Back-end, Front-end, etc, unlimited opportunities.  </br>
+**TikTok Global LIVE Team**, iOS, Android, backend, frontend, etc, unlimited opportunities.  </br>
 Addtional head counts for other departments and bases, Shanghai, Beijing, Shenzhen, Hangzhou, etc. </br>
-Please feel free to contact me with WeChat qs_will or email me directly, even just for chatting :).
+Please feel free to contact me with wechat qs_will or email me directly, even just for a little chatting :).
 
 </br>
 
