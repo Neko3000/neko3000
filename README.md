@@ -48,7 +48,7 @@ Currently employed at TikTok Inc., specializing in enhancing the fundamental bus
 ### 📣 We are hiring
 
 **TikTok Global LIVE Team** offers unlimited opportunities in iOS, Android, backend, frontend, and more. </br>
-We are also looking to hire additional staff for various departments and bases, including Shanghai, Beijing, Shenzhen, Hangzhou, etc. </br>
+We are also looking to hire staff for various including Shanghai, Beijing, Shenzhen, Hangzhou, etc. </br>
 Please feel free to contact me via WeChat at qs_will or email me directly. I'm even available for a casual chat :).
 
 </br>
