@@ -36,20 +36,21 @@ Currently employed at TikTok Inc., specializing in enhancing the fundamental bus
 
 ### 🔬 Recent activities
 
-- ~~🎓 Got a Master Degree of CS, successfully, lived in Tokyo & Shizuoka over 3 years more.~~
-- ~~🎬 Trained video editting skills (Adobe Affter Effects + Cinema 4D), I 'was' really good at it.~~
-- ~~📷 Bought a Cannon RP with 85mm + 35mm, nice shots, but not recently.~~
-- ~~🎸 Praticing ukulele, [Remembrance of dreams past, 1/1], etc.~~
-- ~~⛩️ Re-visited kansai region, around kyoto, Fushimi Inari Shrine is always my favorite spiritual spot.~~
-- 📹 Replaced all Cannon devices with Sony's, to be detailed, Sony A7M4 satisfied me a lot.
+- ~~🎓 Earned a Master's Degree in Computer Science, specializing in distributed systems, and spent more than three formative years immersed in Japanese culture while living in both Tokyo and Shizuoka~~.
+- ~~🎬 Developed advanced video-editing skills using industry-standard software suites such as Adobe After Effects and Cinema 4D; during my peak, I delivered several short films and motion-graphics projects with professional production quality~~.
+- ~~📷 Purchased a Canon RP mirrorless body paired with versatile 85 mm and 35 mm prime lenses—capturing a wide range of portrait and street photography, though my shooting frequency has tapered off recently due to other commitments~~.
+- ~~🎸 Currently dedicating time to daily ukulele practice, focusing on the piece “Remembrance of Dreams Past, 1/1,” as well as expanding my repertoire with jazz and fingerstyle arrangements~~.
+- ~~⛩️ Recently revisited Japan’s Kansai region—chiefly Kyoto—where Fushimi Inari Shrine continues to serve as a profound source of inspiration and personal reflection~~.
+- ~~📹 Transitioned my entire camera setup from Canon to Sony, finding the Sony A7M4’s full-frame sensor, improved color science, and reliable autofocus system particularly well-suited to both studio and run-and-gun filmmaking scenarios~~.
 
 </br>
 
 ### 📣 We are hiring
 
-**TikTok Global LIVE Team** offers unlimited opportunities in iOS, Android, backend, frontend, and more. </br>
-We are also looking to hire staff for various including Shanghai, Beijing, Shenzhen, Hangzhou, etc. </br>
-Please feel free to contact me via WeChat at qs_will or email me directly. I'm even available for a casual chat :).
+📱 TikTok Global LIVE Team is currently expanding and offers a wealth of career opportunities spanning mobile 📱, backend 💻, frontend 🌐, and additional technical domains.  
+🌍 We are primarily recruiting for our Singapore office 🇸🇬, but we also have openings in Shanghai 🇨🇳, Beijing 🇨🇳, Shenzhen 🇨🇳, and Hangzhou 🇨🇳.  
+📧 If you are interested, please connect with me on WeChat (ID: qs_will) or send me an email directly .  
+😊 I would be happy to have an informal conversation at your convenience :).
 
 </br>
 
