@@ -2,8 +2,8 @@
 
 <!-- <img align='right' src="https://raw.githubusercontent.com/Neko3000/resource-storage/master/img/homepage/shibainu-1.png" alt="screenshot-1" width='100"'> -->
 
-I'm Xueliang Chen, a skilled mobile application developer. </br>
-Currently employed at TikTok Inc., specializing in enhancing the fundamental business of **TikTok Global LIVE**. </br>
+- I'm Xueliang Chen, a software engineer by profession. </br>
+- Employed at TikTok Inc., specializing in enhancing the growth business for **TikTok Global LIVE**. </br>
 
 </br>
 
@@ -47,10 +47,10 @@ Currently employed at TikTok Inc., specializing in enhancing the fundamental bus
 
 ### 📣 We are hiring
 
-📱 TikTok Global LIVE Team is currently expanding and offers a wealth of career opportunities spanning mobile 📱, backend 💻, frontend 🌐, and additional technical domains.  
-🌍 We are primarily recruiting for our Singapore office 🇸🇬, but we also have openings in Shanghai 🇨🇳, Beijing 🇨🇳, Shenzhen 🇨🇳, and Hangzhou 🇨🇳.  
-📧 If you are interested, please connect with me on WeChat (ID: qs_will) or send me an email directly .  
-😊 I would be happy to have an informal conversation at your convenience :).
+- 📱 TikTok Global LIVE Team is currently expanding and offers a wealth of career opportunities spanning mobile 📱, backend 💻, frontend 🌐, and additional technical domains.  
+- 🌍 We are primarily recruiting for our Singapore office 🇸🇬, but we also have openings in Shanghai 🇨🇳, Beijing 🇨🇳, Shenzhen 🇨🇳, and Hangzhou 🇨🇳.  
+- 📧 If you are interested, please connect with me on WeChat (ID: qs_will) or send me an email directly .  
+- 😊 I would be happy to have an informal conversation at your convenience :).
 
 </br>
 
