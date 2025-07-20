@@ -36,12 +36,12 @@ Currently employed at TikTok Inc., specializing in enhancing the fundamental bus
 
 ### 🔬 Recent activities
 
-- ~~🎓 Earned a Master's Degree in Computer Science, specializing in distributed systems, and spent more than three formative years immersed in Japanese culture while living in both Tokyo and Shizuoka~~.
-- ~~🎬 Developed advanced video-editing skills using industry-standard software suites such as Adobe After Effects and Cinema 4D; during my peak, I delivered several short films and motion-graphics projects with professional production quality~~.
-- ~~📷 Purchased a Canon RP mirrorless body paired with versatile 85 mm and 35 mm prime lenses—capturing a wide range of portrait and street photography, though my shooting frequency has tapered off recently due to other commitments~~.
-- ~~🎸 Currently dedicating time to daily ukulele practice, focusing on the piece “Remembrance of Dreams Past, 1/1,” as well as expanding my repertoire with jazz and fingerstyle arrangements~~.
-- ~~⛩️ Recently revisited Japan’s Kansai region—chiefly Kyoto—where Fushimi Inari Shrine continues to serve as a profound source of inspiration and personal reflection~~.
-- 📹 Transitioned my entire camera setup from Canon to Sony, finding the Sony A7M4’s full-frame sensor, improved color science, and reliable autofocus system particularly well-suited to both studio and run-and-gun filmmaking scenarios.
+- 🎓 Earned a Master's Degree in Computer Science and spent more than three years living in both Tokyo and Shizuoka.
+- 🎬 Developed strong video-editing skills (Adobe After Effects + Cinema 4D) and was once highly proficient in this area.
+- 📷 Purchased a Canon RP paired with 85 mm and 35 mm lenses—took many great photos, although I have not shot much lately.
+- 🎸 Currently practicing the ukulele, working on “Remembrance of Dreams Past, 1/1,” among other pieces.
+- ⛩️ Made a return trip to the Kansai region, particularly Kyoto; Fushimi Inari Shrine remains my favorite spiritual destination.
+- 📹 Switched all Canon equipment to Sony gear, and the Sony A7M4, in particular, has exceeded my expectations.
 
 </br>
 
