@@ -41,7 +41,7 @@ Currently employed at TikTok Inc., specializing in enhancing the fundamental bus
 - ~~📷 Purchased a Canon RP mirrorless body paired with versatile 85 mm and 35 mm prime lenses—capturing a wide range of portrait and street photography, though my shooting frequency has tapered off recently due to other commitments~~.
 - ~~🎸 Currently dedicating time to daily ukulele practice, focusing on the piece “Remembrance of Dreams Past, 1/1,” as well as expanding my repertoire with jazz and fingerstyle arrangements~~.
 - ~~⛩️ Recently revisited Japan’s Kansai region—chiefly Kyoto—where Fushimi Inari Shrine continues to serve as a profound source of inspiration and personal reflection~~.
-- ~~📹 Transitioned my entire camera setup from Canon to Sony, finding the Sony A7M4’s full-frame sensor, improved color science, and reliable autofocus system particularly well-suited to both studio and run-and-gun filmmaking scenarios~~.
+- 📹 Transitioned my entire camera setup from Canon to Sony, finding the Sony A7M4’s full-frame sensor, improved color science, and reliable autofocus system particularly well-suited to both studio and run-and-gun filmmaking scenarios.
 
 </br>
 
